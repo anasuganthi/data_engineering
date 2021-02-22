@@ -7,8 +7,11 @@ This repo includes various projects based on different requirements for a data e
 The _**Programming**_ branch includes the following,
 
 SQL: Projects done using SQL.
+
 Python: Data engineering projects using Python.
+
 Scala: Data Engineeing Projects using Scala.
+
 Scripting: Projects using scripting
 
 **Data Engineering Process:**
